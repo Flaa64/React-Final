@@ -24,4 +24,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### Deploy de la aplicación
 https://react-final-olive.vercel.app/
 
-react-final-olive.vercel.app
